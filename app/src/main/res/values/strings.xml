@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MLKit AppClient</string>
+    <string name="label_login">Login</string>
+    <string name="label_register">Signup</string>
+    <string name="hint_email_address">Enter a valid email address</string>
+    <string name="hint_password">Enter a password</string>
+</resources>
