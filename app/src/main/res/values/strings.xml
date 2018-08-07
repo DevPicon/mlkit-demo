@@ -4,4 +4,6 @@
     <string name="label_register">Signup</string>
     <string name="hint_email_address">Enter a valid email address</string>
     <string name="hint_password">Enter a password</string>
+    <string name="label_scanner">Open Scanner</string>
+    <string name="label_barcode_not_recognized">The scanner did not recogenize the barcode</string>
 </resources>
